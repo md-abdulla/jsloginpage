@@ -1,0 +1,84 @@
+@media(max-width: 1199px) {
+
+
+
+
+    
+       .form {
+    background: #00000080;
+    width: 26% !important;
+    padding: 40px;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+}
+.ip {
+    display: block;
+    margin-top: 5px;
+    width: 55%;
+}
+   
+}
+
+@media(max-width: 991px) {
+
+
+
+
+       .form {
+    background: #00000080;
+    width: 26% !important;
+    padding: 40px;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+}
+.ip {
+    display: block;
+    margin-top: 5px;
+    width: 55%;
+}
+    
+}
+
+@media(max-width: 767px) {
+
+
+
+    .form {
+    background: #00000080;
+    width: 35% !important;
+    padding: 40px;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+}
+.ip {
+    display: block;
+    margin-top: 5px;
+    width: 55%;
+}
+   
+}
+
+@media(max-width: 575px) {
+    
+.form {
+    background: #00000080;
+    width: 50% !important;
+    padding: 40px;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+}
+.ip {
+    display: block;
+    margin-top: 5px;
+    width: 55%;
+}
+
+}
